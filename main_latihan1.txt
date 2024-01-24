@@ -1,0 +1,4 @@
+Ini adalah latihan membuat file pada git :
+1. Buat file *.txt di forder git
+2. Ketikan isi file
+3. Simpan
