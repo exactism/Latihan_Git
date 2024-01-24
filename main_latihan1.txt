@@ -5,3 +5,6 @@ Ini adalah latihan membuat file pada git :
 4. Open lagi filenya ---> Keperluan membuat branch
 5. Edit file dengan penambahan text
 6. Simpan
+7. Open lagi filenya ---> Keperluan PUSH ke GITHUB
+8. Ketikan isi file
+9. Simpan
